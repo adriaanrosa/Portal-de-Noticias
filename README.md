@@ -6,7 +6,7 @@ Este é um projeto de um portal de notícias desenvolvido para fornecer informa�
 
 ## 🔗 Link de Acesso
 
-Acesse o portal em: [Portal de Notícias]()
+Acesse o portal em: [Portal de Notícias](https://portal-de-noticias-gamma.vercel.app/)
 
 ## 🚀 Tecnologias Utilizadas
 
